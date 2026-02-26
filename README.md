@@ -1,0 +1,3 @@
+# test_gitAction
+
+これはgitActionの動きを理解するために作成したものです
